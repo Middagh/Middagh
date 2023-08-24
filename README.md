@@ -1,5 +1,5 @@
 ### Hi there ⚡
-[![Middagh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Middagh)](https://github.com/Middagh/github-readme-stats)
+[![Middagh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Middagh)](https://github.com/Middagh/github-readme-stats&count_private=true)
 
 <!--
 **Middagh/Middagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
